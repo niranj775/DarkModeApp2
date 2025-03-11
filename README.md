@@ -1,3 +1,2 @@
-﻿# Light Dark Mode
-https://niranj775.github.io/DarkModeApp/
-# DarkModeApp2
+﻿# DarkModeApp2
+https://niranj775.github.io/DarkModeApp2
